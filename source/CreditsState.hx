@@ -25,15 +25,6 @@ class CreditsState extends MusicBeatState
 
 	private static var creditsStuff:Array<Dynamic> = [
 		// Name - Icon name - Description - Link - BG Color
-		['7723 Andoid'],
-		[
-		    'Ajwwk',
-			'ajwwk',
-			'7723 or Android Psych Engine',
-			'https://twitter.com/Ajwwk2',
-			DB9370
-		],
-	    [''],
 		['Psych Engine Team'],
 		[
 			'Shadow Mario',
